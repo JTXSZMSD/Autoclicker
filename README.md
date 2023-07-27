@@ -1,1 +1,2 @@
-# Autoclicker
+# AutoClickerByHirutsu
+Simple AutoClicker
